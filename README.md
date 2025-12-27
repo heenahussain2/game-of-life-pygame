@@ -9,7 +9,7 @@ Interactive Conway's Game of Life built with Pygame. Draw cells with the mouse, 
 - Modular layout (`grid_life/`) separating config, state logic, rendering, and the app loop for easy experimentation.
 
 ## Run the game
-- Download and run the Windows executable: [GameOfLife](https://github.com/heenahussain2/game-of-life-pygame/raw/refs/heads/master/dist/GameOfLife.exe) from the project folder or the release you downloaded.
+- Download and run the Windows executable: [GameOfLife](https://github.com/heenahussain2/game-of-life-pygame/raw/refs/heads/master/dist/GameOfLife.exe)
 
 ## Controls
 - `Mouse click` - Toggle a cell alive.
